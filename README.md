@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Abhinav079
-- 👀 I’m interested in Data Engineering and Data Analytics
-- 🌱 I’m currently learning Tableau,looker.
-- 💞️ I’m looking to collaborate on D.I.Shaw
-- 📫 feel free to contact me on linkedin or mail me on 
+Hey, I'm Abhinav !
 
-<!---
-Abhinav079/Abhinav079 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Being a student pursuing 2nd year of graduation in Engineering
+
+Just embarked on the field of Data engineering and Data analysis.looking for a bunch of oppurtunities to immersemyself in many different works and projects,helping to make this world better through design &coding 
+
+" Where there is Data smoke there is business fire " -Thomas Redman
+
+I'm always trying to grow and learn something new. I lose track of time when i'm playing basketball,studying languages or simply reasing a good book
