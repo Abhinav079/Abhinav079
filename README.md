@@ -1,7 +1,7 @@
 # 💫 Hi there, I'm Abhinav 👋:
-An Aspiring Electronics Engineer with a keen passion for VLSI<br><br>
+An Aspiring Electronics Engineer with a keen passion for AI and ML<br><br>
 
-🔭 I’m currently working on VLSI and FPGA<br>👯 I’m looking to collaborate on projects and publications<br>🤝 I’m looking for help with learning various power consumption techniques in VLSI circuits<br>🌱 I’m currently learning Verilog <br>💬 Ask me about VLSI and FPGA design flow<br>⚡ Fun fact Earth spins 😄<br><br>
+🔭 I’m currently working on infusing AI and MLtechnologies in VLSI and FPGA<br>👯 I’m looking to collaborate on projects and publications<br>🤝 I’m looking for help with learning various power consumption techniques in VLSI circuits<br>🌱 I’m currently learning Verilog <br>💬 Ask me about VLSI and FPGA design flow<br>⚡ Fun fact Earth spins 😄<br><br>
 
 
 ## 🌐 Socials:
