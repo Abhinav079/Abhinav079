@@ -30,8 +30,8 @@
   <section>
     <h2>Projects</h2>
     <ul>
-      <li><a href="#">Project 1: Hand Cricket game using python </a></li>
-      <li><a href="#">Project 2: Calculator using python </a></li>
+      <li><a href="https://github.com/Abhinav079/Hand-Cricket-Game-using-Python">Project 1: Hand Cricket game using python </a></li>
+      <li><a href="https://github.com/Abhinav079/Scientific-Calculator">Project 2: Calculator using python </a></li>
     </ul>
   </section>
   
