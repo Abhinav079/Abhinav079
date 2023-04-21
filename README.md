@@ -1,7 +1,46 @@
-# 💫 Hi there, I'm Abhinav 👋:
-An Aspiring Electronics Engineer with a keen passion for AI and ML<br><br>
 
-🔭 I’m currently working on infusing AI and ML technologies in Data science as a carrier<br>👯 I’m looking to collaborate on projects and publications<br>🤝 I’m looking for help with learning various power consumption techniques in VLSI circuits<br>🌱 I’m currently learning Verilog <br>💬 Ask me about VLSI and FPGA design flow<br>⚡ Fun fact Earth spins 😄<br><br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Abhinav's portfolio showcasing data science skills and projects">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" rel="stylesheet">
+     
+</head>
+<body> 
+  <section>
+    <h2>About Me</h2>
+    <p>Hi, I'm Abhinav, a data science enthusiast with a passion for solving complex problems. I have experience in various data science tools and techniques, including machine learning, data visualization, and statistical analysis. With a strong foundation in programming and data analysis, I am well-equipped to tackle any data-driven challenge.</p>
+  </section>
+  
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>Python</li>
+      <li>SQL</li>
+      <li>Data Visualization</li>
+      <li>Statistical Analysis</li>
+      <li>Git</li>
+      <li>Jupyter Notebooks</li>
+      <li>Tableau</li>
+    </ul>
+  </section>
+  
+  <section>
+    <h2>Projects</h2>
+    <ul>
+      <li><a href="#">Project 1: Hand Cricket game using python </a></li>
+      <li><a href="#">Project 2: Calculator using python </a></li>
+    </ul>
+  </section>
+  
+  <section>
+    <h2>Contact Me</h2>
+    <p>If you're interested in collaborating or have any questions, feel free to <a href="mailto:abhinav@example.com">send me an email</a>.</p>
+  </section>
+  
+
 
 
 ## 🌐 Socials:
