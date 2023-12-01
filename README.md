@@ -26,15 +26,7 @@
       <li>Tableau</li>
     </ul>
   </section>
-  
-  <section>
-    <h2>Projects</h2>
-    <ul>
-      <li><a href="https://github.com/Abhinav079/Hand-Cricket-Game-using-Python">Project 1: Hand Cricket game using python </a></li>
-      <li><a href="https://github.com/Abhinav079/Scientific-Calculator">Project 2: Calculator using python </a></li>
-    </ul>
-  </section>
-  
+
   <section>
     <h2>Contact Me</h2>
     <p>If you're interested in collaborating or have any questions, feel free to <a href="mailto:abhinav@example.com">send me an email</a>.</p>
